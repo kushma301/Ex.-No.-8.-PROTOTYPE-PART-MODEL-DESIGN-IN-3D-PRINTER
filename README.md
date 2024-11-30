@@ -47,8 +47,25 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+
+
+
+![WhatsApp Image 2024-11-30 at 8 22 09 PM](https://github.com/user-attachments/assets/dbe1d68a-2cc5-413b-85c6-c1a271689e7e)
+
+
+
+
+
+
+
+
+
+
+
+### Name:kushma. S
+### Register Number:24013666
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
